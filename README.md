@@ -5,4 +5,4 @@ All code is written in NASM64 and was tested on a system running Arch linux with
 
 name = file name with out extention
 
-nasm -f elf64 $name.asm -o $name.o && ld $name.o -o $name
+`nasm -f elf64 $name.asm -o $name.o && ld $name.o -o $name`
