@@ -1,4 +1,4 @@
-# nasmDMOJ
+# NASM DMOJ
 
 This is not for cheating but rather a way for me to document answers I have submitted on dmoj
 All code is written in NASM64 and was tested on a system running Arch linux.
